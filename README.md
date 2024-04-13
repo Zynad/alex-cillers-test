@@ -45,3 +45,7 @@ brew install polytope-cli
 ```
 
 On OSX and Windows, you need to make sure that the Docker VM has enough memory to run the full stack. See [here](https://docs.docker.com/desktop/settings/mac/#resources) for instructions on how to allocate more memory.
+
+Git problems, run this : 
+chmod +x services/input/bin/run
+chmod +x services/api/bin/run
